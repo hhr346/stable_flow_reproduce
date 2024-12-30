@@ -1,0 +1,52 @@
+{
+  "0": {
+    "prompt": "A coffee cup on a table",
+    "tuned_prompt": "A coffee cup on a table with a pen beside it",
+    "seed": "556611"
+  },
+  "1": {
+    "prompt": "A smiling man on the street",
+    "tuned_prompt": "A smiling man on the street holding an avocado",
+    "seed": "546911"
+  },
+  "2": {
+    "prompt": "A cat sitting on a windowsill",
+    "tuned_prompt": "A cat sitting on a windowsill with a red hat on",
+    "seed": "656931"
+  },
+  "3": {
+    "prompt": "A woman sitting besides a cafe table",
+    "tuned_prompt": "A woman wearing sunglasses sitting besides a cafe table",
+    "seed": "673291"
+  },
+  "4": {
+    "prompt": "A little girl reading a book in a library",
+    "tuned_prompt": "A little girl reading a book in a library with a cat beside her",
+    "seed": "084271"
+  },
+  "5": {
+    "prompt": "A dog playing in a park",
+    "tuned_prompt": "A dog playing in a park chasing a cat",
+    "seed": "982743"
+  },
+  "6": {
+    "prompt": "A young girl smiling at the camera",
+    "tuned_prompt": "A young girl holding a red balloon smiling at the camera",
+    "seed": "887628"
+  },
+  "7": {
+    "prompt": "A cat lounging on a couch",
+    "tuned_prompt": "A cat lounging on a couch with a blanket",
+    "seed": "976894"
+  },
+  "8": {
+    "prompt": "A girl walking in the park",
+    "tuned_prompt": "A girl walking in the park with a boy",
+    "seed": "187654"
+  },
+  "9": {
+    "prompt": "A skateboarder doing a trick",
+    "tuned_prompt": "A skateboarder holding a pizza doing a trick",
+    "seed": "975232"
+  }
+}
